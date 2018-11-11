@@ -1,0 +1,16 @@
+# .vscode/
+.vscode/
+
+# obj/
+obj/
+
+# bin/
+bin/*.bin
+bin/*.dbg
+bin/*.map
+
+# src/
+
+# src/res/
+src/res/*.log
+src/res/*.exe
